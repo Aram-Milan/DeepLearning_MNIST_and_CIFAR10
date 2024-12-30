@@ -49,9 +49,13 @@ This repository involves implementing neural networks from scratch using Python,
 ### Producing results
 Alternatively, you can open the notebook files directly in Jupyter Notebook or JupyterLab to execute the cells and visualize the results interactively. The random seed used is 42.
 
+## Citation
+If you use this work in your research or projects, please cite it as:
+
+Aram Gholikimilan. "DeepLearning_MNIST_and_CIFAR10". Version 1.0.0, 2024. [GitHub Repository](https://github.com/Aram-Milan/DeepLearning_MNIST_and_CIFAR10).
 
 ## License
-This coursework is part of the IN3063 module at City, University of London, and is not licensed for public use. Please do not distribute.
+...
 
 ## Contact
 For questions, please contact the group members or reach out to the lecturer via the Moodle platform.
