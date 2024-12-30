@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - name: "Aram Gholikimilan"
+
+title: "DeepLearning_MNIST_and_CIFAR10"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-12-30
+url: "https://github.com/Aram-Milan/DeepLearning_MNIST_and_CIFAR10"
+license: MIT
