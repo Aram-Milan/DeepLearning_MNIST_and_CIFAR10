@@ -17,6 +17,12 @@ This repository involves implementing neural networks from scratch using Python,
 
 ## Getting Started
 
+## Features
+- Implementation of neural networks from scratch using Python.
+- Development of convolutional neural networks using PyTorch.
+- Application to benchmark datasets: MNIST, Fashion MNIST, and CIFAR-10.
+- Includes interactive Jupyter notebooks for visualization and experimentation.
+
 ### Prerequisites
 - Python 3.8+
 - Libraries: `numpy`, `matplotlib`, `pytorch`, `scikit-learn`
@@ -45,7 +51,12 @@ This repository involves implementing neural networks from scratch using Python,
   ```sh
   jupyter nbconvert --execute --to notebook "src/Task_2_CIFAR10_CNN.ipynb"
   ```
-  
+
+## Results
+- **Neural Network**: Achieved ~98% accuracy on MNIST and ~90% on Fashion MNIST datasets.
+- **Convolutional Neural Network**: Achieved ~85% accuracy on the CIFAR-10 dataset.
+- Visualizations include training/validation loss curves, accuracy plots, and sample predictions.
+
 ### Producing results
 Alternatively, you can open the notebook files directly in Jupyter Notebook or JupyterLab to execute the cells and visualize the results interactively. The random seed used is 42.
 
@@ -54,8 +65,13 @@ If you use this work in your research or projects, please cite it as:
 
 Aram Gholikimilan. "DeepLearning_MNIST_and_CIFAR10". Version 1.0.0, 2024. [GitHub Repository](https://github.com/Aram-Milan/DeepLearning_MNIST_and_CIFAR10).
 
+For detailed citation information, see the [CITATION.cff](CITATION.cff) file.
+
 ## License
-...
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions, please contact the group members or reach out to the lecturer via the Moodle platform.
+For any questions or feedback, feel free to contact:
+- **Author**: Aram Gholikimilan
+- **Email**: gholikimilan@hotmail.com
+
